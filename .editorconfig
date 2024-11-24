@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# Default severity for analyzer diagnostics with category 'Structure'
+dotnet_analyzer_diagnostic.category-Structure.severity = none
